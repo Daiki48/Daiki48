@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48)](https://github.com/Daiki48/github-readme-stats)
+
 <!--
 **Daiki48/Daiki48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
