@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48)](https://github.com/Daiki48/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=radical)
+
+[![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&layout=compact)](https://github.com/Daiki48/github-readme-stats)
 
 <!--
 **Daiki48/Daiki48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
