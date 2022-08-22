@@ -1,5 +1,8 @@
 ### Hi there I am Daiki. 👋
 
+### 💬 Ask me about ...
+Started self-study of programming in Feb 2022.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=radical)
 
 [![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer)
