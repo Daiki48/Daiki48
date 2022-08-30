@@ -2,6 +2,7 @@
 
 ### 💬 Ask me about ...
 Started self-study of programming in Feb 2022.
+Learning rust.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=radical)
 
