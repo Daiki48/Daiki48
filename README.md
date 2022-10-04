@@ -1,4 +1,4 @@
-## Hello. I am Daiki. 👋👋
+## Hello. I am Daiki. 👋
 
 ### 💬 Ask me about ...
 Started self-study of programming in Feb 2022.
