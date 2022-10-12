@@ -10,7 +10,7 @@ Started self-study of programming in Feb 2022.
 [![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue) -->
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
 
