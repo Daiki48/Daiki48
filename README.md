@@ -3,6 +3,8 @@
 
 ### 💬 Ask me about ...
 Started self-study of programming in Feb 2022.
+Programming is my hobby.
+
 - 🌱 I’m currently learning Rust & TypeScript.
 - devlopment is windows11(powershell7) & neovim.
 
