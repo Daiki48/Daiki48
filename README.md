@@ -6,7 +6,7 @@ Started self-study of programming in Feb 2022.
 Programming is my hobby.
 
 - 🌱 I’m currently learning Rust & TypeScript.
-- devlopment is windows11(powershell7) & neovim.
+- ⚡ devlopment is windows11(powershell7) & neovim.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=gruvbox)
 
