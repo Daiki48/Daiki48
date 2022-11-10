@@ -1,6 +1,5 @@
 ### Hello. I am Daiki. 👋
 
-
 ### 💬 Ask me about ...
 Started self-study of programming in Feb 2022.
 Programming is my hobby.
