@@ -1,6 +1,6 @@
 ### Hi. I am Daiki. 👋
 
-2022 was a very enjoyable year for me when I started programming.🤗
+Happy New Year!!🤗
 
 ### 💬 Ask me about ...
 Started self-study of programming in Feb 2022.
