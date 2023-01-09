@@ -1,5 +1,7 @@
 ### Hi. I am Daiki. 👋
 
+Thanks!!
+
 I will continue to do my best in 2023🔥
 
 ### 💬 Ask me about ...
