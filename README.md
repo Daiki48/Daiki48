@@ -1,6 +1,5 @@
 ### Hi. I am Daiki. 👋
 
-
 I will continue to do my best in 2023🔥
 
 ### 💬 Ask me about ...
@@ -9,6 +8,10 @@ Programming is my hobby.
 
 - 🌱 I’m currently learning Rust.
 - ⚡ devlopment is windows11(PowerShell7.3.1) & neovim.(I use VisualStudioCode or SublimeText4 at work.)
+
+## Dev
+
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=gruvbox)
 
