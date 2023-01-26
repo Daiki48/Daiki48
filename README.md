@@ -17,6 +17,8 @@ Programming is my hobby.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,rust)](https://skillicons.dev)
 
+## GitHub Status
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=gruvbox)
 
 <!-- [![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer) -->
