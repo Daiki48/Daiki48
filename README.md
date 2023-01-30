@@ -1,4 +1,4 @@
-# Hi. I am Daiki. 👋
+# 👋 Hi. I am Daiki.
 
 I will continue to do my best in 2023🔥
 
