@@ -15,7 +15,7 @@ Programming is my hobby.
 
 # :dash: Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust)](https://skillicons.dev)
 
 # :fire: GitHub Status
 
