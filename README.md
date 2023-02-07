@@ -7,7 +7,7 @@ Started self-study of programming in Feb 2022 :)
 Programming is my hobby.
 
 - 🌱 I’m currently learning Rust.
-- ⚡ devlopment is windows11(PowerShell7.3.2) & neovim.(I use VisualStudioCode or SublimeText4 at work.)
+- ⚡ devlopment is windows11(PowerShell7.3.2) & neovim.(I use VisualStudioCode at work.)
 
 # :raised_hands: Dev
 
