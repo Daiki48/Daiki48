@@ -9,6 +9,7 @@ Programming is my hobby.
 - 🌱 I’m currently learning Javascript and Typescript.
 - ⚡ devlopment is windows11(PowerShell7.3.2) & VS Code or Neovim.
 
+
 # :raised_hands: Dev
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
