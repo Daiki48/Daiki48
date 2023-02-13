@@ -1,6 +1,6 @@
 # 👋 Hi. I am Daiki.
 
-I will continue to do my best in 2023🔥
+I will continue to do my best in 2023🔥🔥
 
 # 💬 Ask me about ...
 Started self-study of programming in Feb 2022 :)
