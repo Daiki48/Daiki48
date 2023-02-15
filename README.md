@@ -14,7 +14,7 @@ Programming is my hobby.
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
-# :dash: Learning
+# :dash: Learning :dash:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust)](https://skillicons.dev)
 
