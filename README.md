@@ -27,6 +27,7 @@ Programming is my hobby.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
  
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&langs_count=8)](https://github.com/Daiki48/github-readme-stats)
