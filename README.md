@@ -31,8 +31,8 @@ Programming is my hobby.
  
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
-
-# Lang
+ 
+# ✈️ Lang
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&langs_count=8)](https://github.com/Daiki48/github-readme-stats)
 
