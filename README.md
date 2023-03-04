@@ -7,6 +7,7 @@ Started self-study of programming in Feb 2022 :)
 Programming is my hobby.
 
 
+
 - 🌱 I’m currently learning Javascript and Typescript.
 - ⚡ devlopment is windows11(PowerShell7.3.2) & VS Code or Neovim.
 
