@@ -30,7 +30,7 @@ Programming is my hobby.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
  
-# Contributions
+# 🌟 Contributions
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
  
