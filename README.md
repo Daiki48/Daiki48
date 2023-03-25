@@ -28,6 +28,8 @@ Programming is my hobby XD
 
 # 🏁 Visitor 🏁
 
+※Note that it is rarely shown.
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
  
 # 🌟 Contributions 🌟
