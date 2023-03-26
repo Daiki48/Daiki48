@@ -2,6 +2,8 @@
 
 I will continue to do my best in 2023🔥🔥
 
+🚧 Personal website and personal apps under development 🚧
+
 # 💬 Ask me about ... 💬
 Started self-study of programming in Feb 2022 :)
 Programming is my hobby XD
