@@ -25,7 +25,7 @@ Programming is my hobby XD
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust)](https://skillicons.dev)
 
-# :fire: GitHub Status 🔥
+# 🔥 GitHub Status 🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=gruvbox)
 
