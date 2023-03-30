@@ -15,6 +15,7 @@ Programming is my hobby XD
 - 🌱 I’m currently learning Typescript.
 - ⚡ Devlopment is windows11(PowerShell7.3.3) & VS Code.
 - 🚧 Learning Deno.
+- 🔰 React.
 
 
 # :raised_hands: Dev :raised_hands:
