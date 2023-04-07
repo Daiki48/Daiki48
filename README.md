@@ -8,6 +8,8 @@ I will continue to do my best in 2023🔥🔥
 Started self-study of programming in Feb 2022 :)  
 Programming is my hobby XD
 
+
+
 - 🌱 I’m currently learning Typescript.
 - ⚡ Devlopment is windows11(PowerShell7.3.3) & VS Code.
 - 🔰 React.
