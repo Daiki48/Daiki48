@@ -23,6 +23,7 @@ Programming is my hobby XD
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust)](https://skillicons.dev)
 
+
 # 🔥 GitHub Status 🔥
 
 
