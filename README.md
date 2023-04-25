@@ -13,7 +13,7 @@ Programming is my hobby XD
 
 
 - 🌱 I’m currently learning Typescript.
-- ⚡ Devlopment is windows11(PowerShell7.3.) & VS Code.
+- ⚡ Devlopment is windows11(PowerShell7.3.4) & VS Code.
 - 🔰 React.
 
 
