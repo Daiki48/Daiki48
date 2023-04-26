@@ -1,7 +1,7 @@
 # 👋 Hi. I am Daiki 👋
 
 
-I will continue to do my best in 2023🔥🔥
+I will continue to do my best in 2023🔥
 
 
 🚧 Personal website and personal apps under development 🚧
