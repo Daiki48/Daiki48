@@ -35,11 +35,13 @@ Programming is my hobby XD
 
 <!-- [![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer) -->
 
-# 🏁 Visitor 🏁
+<!-- # 🏁 Visitor 🏁
 
 ※Note that it is rarely shown.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
+
+-->
  
 # 🌟 Contributions 🌟
  
