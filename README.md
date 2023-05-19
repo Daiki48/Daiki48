@@ -12,7 +12,6 @@ Started self-study of programming in Feb 2022 :)
 
 
 
-
 # :raised_hands: Dev :raised_hands:
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
