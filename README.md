@@ -10,7 +10,6 @@ Started self-study of programming in Feb 2022 :)
 - 🌱 I’m currently learning Typescript.
 - ⚡ Devlopment is windows11(PowerShell7.3.4) & VS Code.
 
-
 # :raised_hands: Dev :raised_hands:
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
