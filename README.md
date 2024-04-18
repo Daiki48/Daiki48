@@ -8,7 +8,9 @@ My site [dnfolio](https://dnfolio.dev)
 Started self-study of programming in Feb 2022 :)  
 
 - 🌱 I’m currently learning Typescript.
-- ⚡ Devlopment is windows11(PowerShell7.4.0) & VS Code.
+- ⚡ Work devlopment is windows11(PowerShell7.4.2) & VS Code.
+- 🚡 Hobby development is wezterm & Neovim.
+- ⛰️ Current pc is Manjaro linux.
 
 # Dev
 
