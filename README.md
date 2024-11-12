@@ -19,7 +19,7 @@ Started self-study of programming in Feb 2022 :)
 # Learning
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust,svelte)](https://skillicons.dev)
 
 
 # 🔥 GitHub Status 🔥
