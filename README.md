@@ -1,5 +1,8 @@
 # 👋 Hey There
 
+![Total Visitors](https://api.visitorbadge.io/api/visitors?path=Daiki48%2FDaiki48&countColor=%23263759&style=plastic)
+![Daily Visitors](https://api.visitorbadge.io/api/daily?path=Daiki48%2FDaiki48&countColor=%23263759&style=plastic)
+
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,rust,svelte)](https://skillicons.dev)
@@ -9,8 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiki48&show_icons=true&theme=gruvbox)
 
 <!-- [![Twitter: daiki](https://img.shields.io/twitter/follow/Daiki48engineer?style=social)](https://twitter.com/Daiki48engineer) -->
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Daiki48&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
  
