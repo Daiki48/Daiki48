@@ -1,5 +1,9 @@
 # 👋 Hey There
 
+<div align="center">
+    <img width="305" alt="icon" src="https://github.com/user-attachments/assets/ab8b4125-3747-45b1-9511-c84e589a0a62">
+</div>
+
 ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=Daiki48%2FDaiki48&label=TotalVisitors&countColor=%23263759&style=plastic)
 ![Daily Visitors](https://api.visitorbadge.io/api/daily?path=Daiki48%2FDaiki48&label=DailyVisitors&countColor=%23263759&style=plastic)
 
