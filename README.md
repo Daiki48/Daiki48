@@ -1,7 +1,7 @@
 # 👋 Hey There
 
-![Total Visitors](https://api.visitorbadge.io/api/visitors?path=Daiki48%2FDaiki48&countColor=%23263759&style=plastic)
-![Daily Visitors](https://api.visitorbadge.io/api/daily?path=Daiki48%2FDaiki48&countColor=%23263759&style=plastic)
+![Total Visitors](https://api.visitorbadge.io/api/visitors?path=Daiki48%2FDaiki48&label=TotalVisitors&countColor=%23263759&style=plastic)
+![Daily Visitors](https://api.visitorbadge.io/api/daily?path=Daiki48%2FDaiki48&label=DailyVisitors&countColor=%23263759&style=plastic)
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
