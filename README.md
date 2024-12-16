@@ -14,9 +14,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daiki48&theme=nord_dark)
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&langs_count=8)](https://github.com/Daiki48/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&langs_count=8)](https://github.com/Daiki48/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&layout=compact)](https://github.com/Daiki48/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiki48&layout=compact)](https://github.com/Daiki48/github-readme-stats) -->
 
 <!--
 **Daiki48/Daiki48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
