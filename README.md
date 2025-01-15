@@ -1,3 +1,3 @@
 ### Hi
 
-[About me | dnfolio](https://dnfolio.dev/about)
+[About me | dnfolio](https://dnfolio.me/about)
