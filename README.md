@@ -1,1 +1,1 @@
-- [About me | dnfolio](https://dnfolio.me/about)
+- [My site!](https://dnfolio.me)
